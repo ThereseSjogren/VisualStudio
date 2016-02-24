@@ -22,6 +22,7 @@ namespace TestAvVSOchGIT
             get { return Antal; }
             set { Antal = value; }
         }
-
+        public Atom() //Konstruktor
+        { }
     }
 }
