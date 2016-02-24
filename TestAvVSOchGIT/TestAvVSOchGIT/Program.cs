@@ -11,6 +11,8 @@ namespace TestAvVSOchGIT
         static void Main(string[] args)
         {
             Console.WriteLine("Hej på dig din glade drull!");
+            Console.WriteLine("Hoppas detta funkar");
+            Console.WriteLine("jajaj");
         }
     }
 }
