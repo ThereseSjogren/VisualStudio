@@ -26,7 +26,7 @@ namespace TestAvVSOchGIT
         {
 
         }
-        public Atom(int kula, int antal)
+        public Atom(int kula, int antal) //konstruktor
         {
             this.Kula = kula;
             this.Antal = antal;
