@@ -15,6 +15,7 @@ namespace TestAvVSOchGIT
             Console.WriteLine("Hoppas detta funkar");
             Console.WriteLine("jajaj");
             Console.WriteLine("Går det snabbt?");
+            Console.WriteLine("hoppas detta funkar då är vi bäst");
         }
     }
 }
