@@ -23,6 +23,13 @@ namespace TestAvVSOchGIT
             set { Antal = value; }
         }
         public Atom() //Konstruktor
-        { }
+        {
+
+        }
+        public Atom(int kula, int antal)
+        {
+            this.Kula = kula;
+            this.Antal = antal;
+        }
     }
 }
